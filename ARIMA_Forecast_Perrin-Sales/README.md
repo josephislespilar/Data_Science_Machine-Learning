@@ -1,1 +1,1 @@
-# Forecast future sales using Arima and Sarimax
+# Forecast future sales of Perrin using Arima and Sarimax
